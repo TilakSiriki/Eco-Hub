@@ -24,34 +24,29 @@ const About = () => {
         <div className={styles.item}>
           <h1 className={styles.title}>Who Are We?</h1>
           <p className={styles.desc}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            quae dolor, optio voluptatibus magnam iure esse tempora beatae. A
-            suscipit eos. Animi quibusdam cum omnis officiis voluptatum quo ea
-            eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Ducimus quae dolor, optio voluptatibus magnam iure esse tempora
-            beatae, a suscipit eos. Animi quibusdam cum omnis officiis
-            <br />
-            <br />
-            voluptatum quo ea eveniet? Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Ducimus quae dolor, optio voluptatibus magnam iure
-            esse tempora beatae, a suscipit eos. Animi quibusdam cum omnis
-            officiis voluptatum quo ea eveniet?
+          We are dedicated to revolutionizing domestic waste management 
+          through innovative and sustainable solutions. Our mission is 
+          to empower households with practical tools and knowledge to effectively
+          manage waste, reduce environmental impact, and promote recycling. 
+          We believe that small changes at the individual level can lead to 
+          significant positive outcomes for our communities and the planet. 
+          Our team of experts is committed to providing reliable resources and 
+          support, making waste management easier and more efficient for everyone.
           </p>
         </div>
         <div className={styles.item}>
           <h1 className={styles.title}>What We Do?</h1>
           <p className={styles.desc}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            quae dolor, optio voluptatibus magnam iure esse tempora beatae, a
-            suscipit eos. Animi quibusdam cum omnis officiis voluptatum quo ea
-            eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit. -
-            Creative Illustrations
+          We are a pioneering platform focused on transforming domestic 
+          waste management. Our website offers a range of resources, tools, 
+          and guidance to help individuals and families manage waste more 
+          effectively. We provide practical tips on recycling, composting, 
+          and reducing waste to promote a cleaner environment. By integrating
+          technology and expert insights, we aim to simplify waste management 
+          practices and support sustainable living. Our goal is to make waste 
+          management accessible and impactful for every household.
             <br />
-            <br /> - Dynamic Websites
-            <br />
-            <br /> - Fast and Handy
-            <br />
-            <br /> - Mobile Apps
+
           </p>
           <Button url="/contact" text="Contact" />
         </div>

@@ -34,7 +34,7 @@ const links = [
   },
   {
     id: 6,
-    title: "Donate",
+    title: "Login",
     url: "/dashboard",
   },
 ];
